@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * function - use puts to 
- * print to standard output
+ * main - use puts to print to standard output
  *
- * Return 0 (Success)
+ * \"Programming is like building a multilingual puzzle
+ *
+ * Return: 0 (Success)
  */
 
 int  main(void)
